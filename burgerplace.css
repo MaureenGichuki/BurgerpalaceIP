@@ -18,11 +18,12 @@
     margin-right: 100px;
     text-decoration: none;
 }
-{
-    background-image: -webkit-linear-gradient(144deg,#F6B400 50%, white 50%);
+.color{
+background-color: -webkit-linear-gradient(144deg,#F6B400 50%, white 50%);
 }
 .first-child{
     float:left;
+    padding-top: 150px;
 }
 .burg1{
     float:right;
@@ -36,6 +37,7 @@ button{
     border-radius: 25px;
     background-color: #FFB400;
     align-self: flex-end;
+    margin-top: 100px;
 }
 .box{
     margin-top:100px;
@@ -81,32 +83,30 @@ button{
 .first3{
     display: flex;
     float:left;
-    box-shadow: 0 2px 3px 2px;
 }
 #b1{
     margin:20px;
     width:33.33%;
-    height:350px;
+    height:450px;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
-    box-shadow: 5px,10px;
+    box-shadow: 0 2px 3px 2px;
 }
 #b2{
     margin:20px;
     width:33.33%;
-    height:350px;
+    height:450px;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
+    box-shadow: 0 2px 3px 2px;
 }
 #b3{
     margin:20px;
     width:33.33%;
-    height:350px;
+    height:450px;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
+    box-shadow: 0 2px 3px 2px;
 }
 .last3{
     display: flex;
@@ -115,31 +115,42 @@ button{
 #b4{
     margin:20px;
     width:33.33%;
-    height:350px;
+    height:450px;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0 2px 3px 2px;
 }
 #b5{
     margin:20px;
     width:33.33%;
-    height:350px;
+    height:450px;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
+    box-shadow: 0 2px 3px 2px;;
 }
 #b6{
     margin:20px;
     width:33.33%;
+    height: 450px;
     align-items: center;
-    justify-content: center;
-    border-radius: 10px;
+    border-radius: 25px;
+    box-shadow: 0 2px 3px 2px;
 }
 .menu2{
 background-color: #f5fffa;
 float:left;
 padding-right: 100%;
+display: flex;
+height: 500px;
+}
+.text5{
+    display: block;
+    float:left;
+    padding-left: 100px;
+}
+.dburg{
+    float:right;
+    padding-left: 300px;
 }
 .smedia{
     font-weight: bolder;
@@ -156,20 +167,6 @@ padding-right: 100%;
     float:right;
     padding-left: 100px;
     display:flex;
-}
-}
-.info{
-    display:flex;
-    float:left;
-}
-.slot{
-    height:100px;
-    width:300px;
-}
-.slot1{
-    height:50px;
-    width:200px;
-    background-color: #FFB400;
 }
 .footer{
     float:left;

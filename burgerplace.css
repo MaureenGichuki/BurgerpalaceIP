@@ -18,16 +18,18 @@
     margin-right: 100px;
     text-decoration: none;
 }
-.color{
-background-color: -webkit-linear-gradient(144deg,#F6B400 50%, white 50%);
+.parent{
+background:linear-gradient(105deg,white 60%,#F6B400 50%);
+display: flex;
+height: auto;
 }
 .first-child{
     float:left;
-    padding-top: 150px;
+    padding-top: 100px;
+    width:50%;
 }
 .burg1{
-    float:right;
-
+    float: right;
 }
 img{
         max-height: 350px;
@@ -45,6 +47,7 @@ button{
     text-align: center;
     float: left;
     background-color: #f5fffa;
+    height: auto;
 }
 .lid.png{
     max-width: 100%;
@@ -169,7 +172,5 @@ height: 500px;
     display:flex;
 }
 .footer{
-    float:left;
-    display: block;
-    margin-bottom: 0px;
+    display: flex;
 }

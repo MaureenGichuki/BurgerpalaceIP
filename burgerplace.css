@@ -57,6 +57,9 @@ button{
     justify-content: center;
     justify-content: space-between;
 }
+.he1{
+    justify-content: center;
+}
 .box1{
     margin: 30px;
     width:350px;
@@ -195,6 +198,36 @@ height:500px;
     justify-content:space-between;
     background-color: #f5fffa;
 }
-.footer{
+.copy{
+    flex-flow: row;
     justify-content:space-between;
+}
+.edittext{
+    font-size: 35px;
+
+}
+.edittext2{
+    font-size: 28px;
+
+}
+.edittext3{
+    font-size: 20px;
+
+}
+.edittext4{
+    font-size:20px;
+    text-align: justify;
+}
+.eddittext6{
+    font-size:20px;
+    text-align: justify;
+}
+.static{
+        color: white;
+        padding: 20px;
+        width: 100%;
+        background-color: white;
+        text-align: center;
+        -webkit-filter: background-color(black);
+      }
 }

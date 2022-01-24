@@ -171,11 +171,9 @@ display: flex;
     font-weight: bolder;
     background-color: #FFB400;
     float:left;
-    /* padding-right: 100%; */
+    width: 100%;
 }
 .text1{
-    float:left;
-    display:block;
     width:100%;
 }
 .photos{
@@ -197,5 +195,5 @@ display: flex;
     background-color: #f5fffa;
 }
 .footer{
-    justify-content:space-between
+    justify-content:space-between;
 }

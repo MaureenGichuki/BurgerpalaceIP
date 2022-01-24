@@ -222,12 +222,3 @@ height:500px;
     font-size:20px;
     text-align: justify;
 }
-.static{
-        color: white;
-        padding: 20px;
-        width: 100%;
-        background-color: white;
-        text-align: center;
-        -webkit-filter: background-color(black);
-      }
-}

@@ -219,6 +219,9 @@ height:500px;
     font-size:20px;
     text-align: justify;
 }
-.Order1{
-    
+.l1{
+    width:200px;
+}
+.l2{
+    border-style: hidden;
 }

@@ -98,7 +98,7 @@ button{
 }
 .desc1{
     float: left;
-    padding-left:50px;
+    padding-left: 70px;
 }
 #b1{
     text-align: center;
@@ -219,4 +219,7 @@ height:500px;
 .edittext4{
     font-size:20px;
     text-align: justify;
+}
+.edittext5{
+    font-size:25px;
 }

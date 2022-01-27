@@ -2,6 +2,10 @@
 *{
     font-family: 'Poppins', sans-serif;
     font-size: medium;
+    @media screen {
+        min-width: 800pxstaged changes;
+        
+    }
 }
 .color{
     background:linear-gradient(100deg,white 60%,#F6B400 50%);

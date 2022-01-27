@@ -42,8 +42,8 @@ img{
         max-height: 350px;
         max-width: 350px;
 }
-button{
-    border-radius: 25px;
+Order1{
+    border-radius: 25px 25px 0px 25px;
     background-color: #FFB400;
     align-self: flex-end;
     margin-top: 100px;
@@ -218,4 +218,7 @@ height:500px;
 .edittext4{
     font-size:20px;
     text-align: justify;
+}
+.Order1{
+    
 }

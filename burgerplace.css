@@ -280,6 +280,7 @@ p1{
 }
 .brown{
     color:saddlebrown;
+    font-weight:bolder;
 }
 ul{
     position: relative;

@@ -210,30 +210,18 @@ height:500px;
     justify-content:space-between;
     background-color: #f5fffa;
 }
-ul li{
-    list-style-type: none;
+.logom{
+    float:left;
+    display:flex;
+    padding-top: 50px;
+}
+li{
+    list-style: none;
 }
 footer{
     display: flex;
+    justify-content: space-between;
     background-color: white;
-}
-p1{
-    width: 33.33%;
-}
-ul{
-    position: relative;
-  display:block;
-  text-align:center;
-  margin:0 10px;
-  box-sizing: border-box;
-  text-decoration:none;
-}
-name{
-    width: 33.33%;
-}
-.icn1{
-   width: 33.33%;
-   max-height: 1%;
 }
 .edittext{
     font-size: 35px;
@@ -253,10 +241,19 @@ name{
 }
 .edittext5{
     font-size:25px;
+    font-style:italic ;
 }
 .edittext6{
     font-size: 20px;
+    font-style: italic;
+}
+.let{
+    margin-top: 50px; 
+}
+.letter1{
+    width:250px;
+    border-width: thin;
 }
 .letter2{
     background-color: #FFB400;
-}
+    border-style: none;

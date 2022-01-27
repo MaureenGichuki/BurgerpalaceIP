@@ -14,9 +14,6 @@
     float:left;
     display:flex;
 }
-.logo h1{
-    font-size:2em;
-}
 .navbar{
     display: flex;
     float: right;
@@ -219,10 +216,6 @@ height:500px;
 
 }
 .edittext4{
-    font-size:20px;
-    text-align: justify;
-}
-.eddittext6{
     font-size:20px;
     text-align: justify;
 }

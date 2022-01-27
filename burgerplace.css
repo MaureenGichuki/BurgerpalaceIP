@@ -10,9 +10,6 @@
     float:left;
     display:flex;
 }
-.logo h1{
-    font-size:2em;
-}
 .navbar{
     display: flex;
     float: right;
@@ -57,9 +54,6 @@ button{
     justify-content: center;
     justify-content: space-between;
 }
-.he1{
-    justify-content: center;
-}
 .box1{
     margin: 30px;
     width:350px;
@@ -89,6 +83,14 @@ button{
     border-radius: 10px;
     border-width: thin;
     border-style: solid;
+}
+.he1{
+    width: 100%;
+    text-align: center;
+    text-decoration-line:none;
+    border-bottom: 4px #FFB400;
+    padding-top:70px;
+    clear: both;
 }
 .first3{
     display: flex;
@@ -216,10 +218,5 @@ height:500px;
 }
 .edittext4{
     font-size:20px;
-    text-align: justify;
-}
-.eddittext6{
-    font-size:20px;
-    
     text-align: justify;
 }

@@ -210,7 +210,11 @@ height:500px;
     justify-content:space-between;
     background-color: #f5fffa;
 }
-ul li{
+.logom{
+    display: flex;
+    padding-top: 50px;
+}
+li{
     list-style-type: none;
 }
 footer{
@@ -261,8 +265,12 @@ name{
     margin-top: 50px;
 }
 .letter1{
-    
+    width: 250px;
+    border-width: thin;
+    margin-top: 30px;
 }
 .letter2{
+    margin-top: 30px;
     background-color: #FFB400;
+    border-style: hidden;
 }

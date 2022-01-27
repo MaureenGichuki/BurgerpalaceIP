@@ -257,6 +257,12 @@ name{
 .edittext6{
     font-size: 20px;
 }
+.let{
+    margin-top: 50px;
+}
+.letter1{
+    width:70px;
+}
 .letter2{
     background-color: #FFB400;
 }
